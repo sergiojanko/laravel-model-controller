@@ -7,6 +7,6 @@
     <title>Movies</title>
 </head>
 <body>
-    
+    @yield('content')
 </body>
 </html>
